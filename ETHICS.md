@@ -1,4 +1,5 @@
 ETHICS.md
+
 Purpose of Data Collection:
 I am collecting shuttle schedules and service dates from the NYU Transportation webpage. The goal is to provide users with convenient access to transportation schedules for the Fall 2024 semester making it easier for students and staff to plan their travel.
 
